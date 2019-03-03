@@ -2,3 +2,29 @@
 *.jl.*.cov
 *.jl.mem
 deps/deps.jl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+
+# Auxiliary files associated with emacs
+*#
+*~
+*.#
+.#*
+
+# Auxilliary files associated with vim
+*.swp
+VIRTUAL/
+
+# Miscellaneous files
+.idea/
+Untitled*
+untitled*
+*debuglog*
+.DS_Store
